@@ -1,0 +1,4 @@
+repository "rocnikovaHraRemastered@fildrinczlp@cloud"
+  path "/"
+    br "/main"
+    co "/main"
